@@ -53,7 +53,7 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Hallo <?php echo 'myApp2-gugus'?></h1>
+        <h1>Hallo <?php echo 'myApp2-gugus4'?></h1>
         <p class="lead">APPUiO Example Dockerfile PHP</p>
       </div>
 
