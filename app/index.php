@@ -54,7 +54,7 @@
 
       <div class="starter-template">
         <h1>Hallo <?php echo 'myApp2-gugus'?></h1>
-        <p class="lead">APPUiO</p>
+        <p class="lead">andy</p>
       </div>
 
     </div><!-- /.container -->
